@@ -1,2 +1,2 @@
 # test-repository
-print(hello)
+print('hello')
